@@ -1,0 +1,43 @@
+/* Main Style */
+body {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 20px;
+} 
+
+/* header */
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+/* section head */
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+/* brush section */
+.brush h2{
+    background-color: mediumspringgreen;
+}
+
+/* frame section */
+.frames h2{
+    background-color: lightcoral;
+}
+
+/* paint section */
+.paint h2{
+    background-color: skyblue;
+}
+
+/* price */
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue
+}
